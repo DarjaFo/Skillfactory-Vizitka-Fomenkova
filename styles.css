@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+.link {
+    color: orange;
+    transition: color .2s;
+    padding: 10px;
+    font-size: 20px;
+  }
+  .link:hover {
+    color: red;
+  }
+  .header {
+    padding: 30px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+  }
+  .header-link {
+    margin: 0 auto;
+  }
+  .main {
+    margin: 0 auto;
+    width: 800px;
+  }
+  .img-wrapper {
+    background-color: transparent;
+    padding: 10px;
+    text-align: center;
+  }
+  .img {
+    border: 10px dashed gray;
+  }
+  .title {
+    color: rgb(90, 86, 86);
+    text-align: center;
+  }
+  .subtitle {
+    border-left: 10px solid orange;
+    padding-left: 20px;
+    color: rgb(90,86,86);
+    margin-top: 40px;
+  }
+  .footer {
+    border-top: 1px solid rgb(90, 86, 86);
+    padding: 40px;
+    text-align: center;
+    color: rgb(90, 86, 86);
+  }
+  .simple-link {
+    color: orange;
+    padding: 10px;
+    font-size: 15px;
+  }
